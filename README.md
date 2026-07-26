@@ -25,40 +25,38 @@
 ## 👤 Identity Profile
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 NAME              : Ragul S
-
 ROLE              : Cybersecurity Graduate
-
 LOCATION          : Tamil Nadu, India
 
 STATUS            : VERIFIED
-
 CLEARANCE         : OFFSEC-L1
+SYSTEM            : ONLINE
 
-TARGET ROLE       : Web Application Security Engineer
+TARGET ROLE       : Web & API Penetration Tester
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SPECIALIZATION
 
-• Web Application Security
+ • Web Application Security
+ • API Security
+ • Offensive Security
+ • Vulnerability Assessment
+ • CTF Development
 
-• API Security
-
-• Offensive Security
-
-• Vulnerability Assessment
-
-• CTF Development
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CURRENT OBJECTIVE
 
-Develop practical expertise in Web Application
-and API Penetration Testing through
-hands-on projects, research,
-CTFs and continuous learning.
+Develop practical expertise in Web Application and API
+Penetration Testing through hands-on projects,
+security research, CTF development,
+and continuous learning.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
