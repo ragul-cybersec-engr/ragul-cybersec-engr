@@ -2,17 +2,11 @@
 
 # ⚡ CYBER SECURITY ACCESS TERMINAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=3FB950&center=true&vCenter=true&width=650&lines=STATUS+%3A+VERIFIED;CLEARANCE+%3A+OFFSEC-L1;SYSTEM+%3A+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=3FB950&center=true&vCenter=true&width=650&lines=STATUS+%3A+VERIFIED;SYSTEM+%3A+ONLINE" alt="Typing SVG" />
 
 </div>
 
 ---
-
-<div align="center">
-
-### 🟢 STATUS : VERIFIED &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🔐 CLEARANCE : OFFSEC-L1 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌐 SYSTEM : ONLINE
-
-</div>
 
 <br>
 
@@ -29,11 +23,9 @@ NAME              : Ragul S
 
 ROLE              : Cybersecurity Graduate
 
-LOCATION          : Tamil Nadu, India
+LOCATION          : Mayiladuthurai, Tamil Nadu, India
 
-STATUS            : VERIFIED
-
-CLEARANCE         : OFFSEC-L1
+STATUS            : OPEN FOR OPPORTUNITIES
 
 SPECIALIZATION
 
@@ -52,8 +44,6 @@ MISSION
   Develop practical offensive security skills through
   hands-on penetration testing, security research,
   CTF development, and continuous learning.
-
-SYSTEM            : ONLINE
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
