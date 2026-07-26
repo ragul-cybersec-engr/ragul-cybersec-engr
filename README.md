@@ -1,16 +1,8 @@
 <div align="center">
 
-# ⚡ CYBER SECURITY ACCESS TERMINAL
-
-### Offensive Security Profile
+# ⚡ INFO ACCESS TERMINAL
 
 ---
-
-`🟢 VERIFIED`
-&nbsp;&nbsp;&nbsp;&nbsp;
-`🔐 OFFSEC-L1`
-&nbsp;&nbsp;&nbsp;&nbsp;
-`🌐 ONLINE`
 
 </div>
 
