@@ -1,55 +1,75 @@
 <div align="center">
 
-# ⚡ INFO ACCESS TERMINAL
+# ⚡ CYBER SECURITY ACCESS TERMINAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=3FB950&center=true&vCenter=true&width=650&lines=STATUS+%3A+VERIFIED;SYSTEM+%3A+ONLINE" alt="Typing SVG" />
+### Offensive Security Profile
+
+---
+
+`🟢 VERIFIED`
+&nbsp;&nbsp;&nbsp;&nbsp;
+`🔐 OFFSEC-L1`
+&nbsp;&nbsp;&nbsp;&nbsp;
+`🌐 ONLINE`
 
 </div>
+
 <br>
-<table align="center" width="100%">
+
+<table width="100%">
+
 <tr>
-<td width="100%" valign="top">
-👤 Identity Profile
+
+<td width="100%">
+
+## 👤 Identity Profile
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 NAME              : Ragul S
 
 ROLE              : Cybersecurity Graduate
 
-LOCATION          : Mayiladuthurai, Tamil Nadu, India
+LOCATION          : Tamil Nadu, India
 
-STATUS            : OPEN FOR OPPORTUNITIES
+STATUS            : VERIFIED
+
+CLEARANCE         : OFFSEC-L1
+
+TARGET ROLE       : Web Application Security Engineer
 
 SPECIALIZATION
 
-  • Web Application Security
+• Web Application Security
 
-  • API Security
+• API Security
 
-  • Offensive Security
+• Offensive Security
 
-  • Vulnerability Assessment
+• Vulnerability Assessment
 
-  • CTF Development
+• CTF Development
 
-MISSION
+CURRENT OBJECTIVE
 
-  Develop practical offensive security skills through
-  hands-on penetration testing, security research,
-  CTF development, and continuous learning.
+Develop practical expertise in Web Application
+and API Penetration Testing through
+hands-on projects, research,
+CTFs and continuous learning.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## 🎯 Core Security Domains
+# 🎯 Security Focus
 
 <div align="center">
 
