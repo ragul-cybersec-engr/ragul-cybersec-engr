@@ -1,186 +1,254 @@
 <div align="center">
 
-# Application Security Terminal
+# Ragul S
 
-### Ragul S
+### Cybersecurity Graduate • Application Security
 
-**Cybersecurity Graduate focused on Application Security**
+Building secure applications through **Web Security**, **API Security**,
+**Secure Development**, and **Security Automation**.
 
-Building secure applications through practical security assessments,
-secure software development, and security automation.
+<p>
 
----
+<a href="https://github.com/Ragul0812">
+<img src="https://img.shields.io/badge/GitHub-Ragul0812-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ragul-cybersec-engr">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ragul2004s@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
-## $ whoami
+---
 
-```bash
-ragul@appsec:~$ whoami
-```
+<table>
 
-I am a cybersecurity graduate focused on Application Security,
-with hands-on experience in developing secure applications,
-building security-focused projects, and performing practical
-Web Application and API Security assessments.
+<tr>
 
-My interests include secure software engineering,
-security testing, vulnerability assessment,
-security automation, and improving software security
-throughout the Secure Software Development Lifecycle.
+<td width="65%">
+
+## 👋 About Me
+
+I am a **Cybersecurity Graduate** focused on **Application Security** with practical experience in secure software development, Web Application Security, API Security, and Vulnerability Assessment.
+
+My goal is to build software that is secure by design while continuously improving my knowledge of secure engineering practices through practical implementation.
+
+I enjoy developing security-focused projects, automating repetitive security tasks, and understanding how applications can be strengthened against modern threats.
+
+</td>
+
+<td align="center" width="35%">
+
+## Profile
+
+🎯 **Focus**
+
+Application Security
+
+🌍 **Location**
+
+Tamil Nadu, India
+
+💻 **Interest**
+
+Secure Software Development
+
+🔐 **Domain**
+
+Web & API Security
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## $ mission
+# Core Areas
 
-```bash
-ragul@appsec:~$ mission
-```
+<table>
 
-Design software securely.
+<tr>
 
-Identify application risks.
+<td align="center" width="25%">
 
-Reduce attack surface.
+## 🛡️
 
-Automate repetitive security tasks.
+### Application Security
 
-Continuously improve secure engineering practices.
+</td>
+
+<td align="center" width="25%">
+
+## 🌐
+
+### Web Security
+
+</td>
+
+<td align="center" width="25%">
+
+## 🔌
+
+### API Security
+
+</td>
+
+<td align="center" width="25%">
+
+## ⚙️
+
+### Security Automation
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ CYKRYPT – Capture The Flag Platform
+
+A full-stack cybersecurity training platform designed to simulate real-world offensive security challenges while following secure software development practices.
+
+### Key Features
+
+- 🔐 Secure Authentication
+- 🧩 Challenge Management
+- 📊 Real-Time Scoreboard
+- ⚡ Administrative Dashboard
+- 🐳 Dockerized Deployment
+- 🔒 Password Hashing (bcrypt)
+- 🚦 Rate Limiting
+- 🛠️ Secure Backend Architecture
+
+### Built With
+
+`Node.js` `Express` `SQLite` `Docker`
+
+<br>
+
+<a href="https://github.com/Ragul0812/CTF-PLATFORM">
+<strong>🔗 View Repository</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 Security Monitoring Tool
+
+An educational Python project demonstrating security monitoring, encrypted logging, automation, and reporting through a modular implementation.
+
+### Key Features
+
+- 📄 Secure Logging
+- 🔒 Encrypted Data Handling
+- 📧 Email Reporting
+- ⚙️ Python Automation
+- 🧩 Modular Design
+- 📈 Activity Monitoring
+
+### Built With
+
+`Python`
+
+<br>
+
+<a href="https://github.com/Ragul0812/keylogger_project">
+<strong>🔗 View Repository</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## $ specialization
+# 🧠 Technical Expertise
 
-```bash
-ragul@appsec:~$ specialization
-```
+<table>
 
-• Application Security
+<tr>
 
-• Web Application Security
+<td align="center">
 
-• API Security
+### 🛡️ Application Security
 
-• Vulnerability Assessment & Penetration Testing
+Secure SDLC
 
-• Secure Development
+Threat Modeling
 
-• Python Security Automation
-
-• Linux
-
-• Docker
-
----
-
-## $ featured_work
-
-```bash
-ragul@appsec:~$ ls featured_work/
-```
-
-### CYKRYPT — Secure Capture The Flag Platform
-
-A full-stack Capture The Flag platform designed to simulate
-real-world cybersecurity challenges while implementing
-secure development principles.
-
-Highlights
-
-• Secure Authentication
-
-• Password Hashing
-
-• Rate Limiting
-
-• Docker Deployment
-
-• Challenge Management
-
-• Administrative Dashboard
-
-• Real-Time Scoreboard
-
-Repository
-
-https://github.com/Ragul0812/CTF-PLATFORM
-
----
-
-### Security Monitoring & Automation
-
-An educational Python project demonstrating
-security monitoring,
-secure logging,
-encrypted data handling,
-automation,
-and reporting.
-
-Highlights
-
-• Secure Logging
-
-• Encryption
-
-• Email Reporting
-
-• Python Automation
-
-• Modular Architecture
-
-Repository
-
-https://github.com/Ragul0812/keylogger_project
-
----
-
-## $ engineering_principles
-
-```bash
-ragul@appsec:~$ engineering_principles
-```
+Risk Assessment
 
 Security by Design
 
-Defense in Depth
+</td>
 
-Least Privilege
+<td align="center">
 
-Secure Development Lifecycle
+### 🌐 Web Security
 
-Continuous Learning
+Authentication
 
-Practical Problem Solving
+Authorization
 
-Responsible Security Research
+Session Security
 
----
+OWASP Top 10
 
-## $ toolkit
+</td>
 
-```bash
-ragul@appsec:~$ toolkit
-```
+<td align="center">
 
-Languages
+### 🔌 API Security
+
+REST APIs
+
+JWT
+
+OAuth
+
+OWASP API Top 10
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ⚙️ Security Automation
 
 Python
 
-JavaScript
+Automation
 
-Bash
+Reporting
 
----
+Workflow Development
 
-Frameworks
+</td>
 
-Node.js
+<td align="center">
 
-Express
-
----
-
-Platforms
+### 🐧 Platforms
 
 Linux
 
@@ -190,67 +258,42 @@ Git
 
 GitHub
 
-SQLite
+</td>
 
----
+<td align="center">
 
-Security
+### 🔍 Security Testing
 
 Burp Suite
 
 Nmap
 
-Metasploit
-
 Wireshark
 
-OWASP Top 10
+Metasploit
 
-OWASP API Security Top 10
+</td>
 
----
+</tr>
 
-## $ certifications
-
-```bash
-ragul@appsec:~$ certifications
-```
-
-✓ eLearnSecurity Junior Penetration Tester (eJPT)
-
-✓ Certified API Red Team Analyst (API-RTA)
-
-✓ ISO/IEC 27001 Lead Auditor
-
-✓ Certified Network Security Practitioner (CNSP)
-
-✓ IBM Ethical Hacking with Kali Linux
-
-✓ Google Cybersecurity Professional Certificate
+</table>
 
 ---
 
-## $ currently_learning
+# 🏅 Certifications
 
-```bash
-ragul@appsec:~$ currently_learning
-```
-
-Application Security
-
-Threat Modeling
-
-Secure SDLC
-
-API Security
-
-Secure Code Review
-
-Python Security Automation
+| Certification | Status |
+|---------------|--------|
+| eLearnSecurity Junior Penetration Tester (eJPT) | ✅ |
+| Certified API Red Team Analyst (API-RTA) | ✅ |
+| ISO/IEC 27001 Lead Auditor | ✅ |
+| Certified Network Security Practitioner (CNSP) | ✅ |
+| IBM Ethical Hacking with Kali Linux | ✅ |
+| Google Cybersecurity Professional Certificate | ✅ |
 
 ---
 
-## $ github_statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -260,7 +303,7 @@ Python Security Automation
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -269,69 +312,89 @@ Python Security Automation
 </div>
 
 ---
+# 📚 Currently Exploring
 
-## $ connect
+<table>
 
-```bash
-ragul@appsec:~$ connect
-```
+<tr>
 
-GitHub
+<td width="33%">
 
-https://github.com/Ragul0812
+### 🛡️ Application Security
 
-LinkedIn
+- Secure SDLC
+- Security by Design
+- Threat Modeling
+- Secure Code Review
 
-https://linkedin.com/in/ragul-cybersec-engr
+</td>
 
-Portfolio
+<td width="33%">
 
-Coming Soon
+### 🌐 Offensive Security
 
-Email
+- Web Application Testing
+- API Security Testing
+- OWASP Top 10
+- OWASP API Security Top 10
 
-ragul2004s@gmail.com
+</td>
+
+<td width="33%">
+
+### ⚙️ Automation
+
+- Python Security Automation
+- Security Workflows
+- Reporting
+- Tool Development
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## $ philosophy
+# 💭 Engineering Philosophy
 
-```bash
-ragul@appsec:~$ philosophy
-```
-
-Finding vulnerabilities is only one part of security.
-
-Building software that is secure,
-maintainable,
-and resilient creates long-term value.
-
-Every project is an opportunity to improve
-security through thoughtful engineering.
+> Security is not only about finding vulnerabilities.
+>
+> It is about designing software that is resilient, maintainable, and secure throughout its lifecycle.
+>
+> I believe that practical security comes from understanding how systems are built, identifying potential risks early, and integrating security into every stage of software development.
 
 ---
 
-## $ logout
+# 🤝 Let's Connect
 
-```bash
-ragul@appsec:~$ logout
-```
+<div align="center">
 
-Session terminated successfully.
+<a href="https://github.com/Ragul0812">
+<img src="https://img.shields.io/badge/GitHub-Ragul0812-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Thank you for visiting my GitHub profile.
+<a href="https://linkedin.com/in/ragul-cybersec-engr">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!--
-**ragul-cybersec-engr/ragul-cybersec-engr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:ragul2004s@gmail.com">
+<img src="https://img.shields.io/badge/Email-ragul2004s@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+## Thank you for visiting my profile.
+
+I’m always interested in learning, collaborating, and contributing to projects related to:
+
+**Application Security • Web Security • API Security • Secure Software Development • Security Automation**
+
+⭐ If you find my projects useful, feel free to explore my repositories and connect with me.
+
+</div>
