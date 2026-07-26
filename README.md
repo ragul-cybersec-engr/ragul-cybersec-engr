@@ -2,7 +2,6 @@
 
 # ⚡ INFO ACCESS TERMINAL
 
----
 
 </div>
 
