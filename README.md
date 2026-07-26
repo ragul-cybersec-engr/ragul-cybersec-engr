@@ -2,7 +2,15 @@
 
 # ⚡ CYBER SECURITY ACCESS TERMINAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=STATUS+%3A+VERIFIED;CLEARANCE+%3A+OFFSEC-L1;SPECIALIZATION+%3A+WEB+APPLICATION+SECURITY;API+SECURITY+%7C+OFFENSIVE+SECURITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=STATUS+%3A+VERIFIED;CLEARANCE+%3A+OFFSEC-L1;WEB+APPLICATION+SECURITY;API+SECURITY;OFFENSIVE+SECURITY" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🟢 STATUS : VERIFIED
 
 </div>
 
@@ -10,37 +18,46 @@
 
 <tr>
 
-<td width="55%">
+<td width="70%" valign="top">
 
 ## 👤 Operator Information
 
 ```text
-Name        : Ragul S
-Status      : VERIFIED
-Location    : Tamil Nadu, India
-Role        : Cybersecurity Graduate
-Focus       : Offensive Security
-Availability: Open to Opportunities
+NAME          : Ragul S
+
+STATUS        : VERIFIED
+
+CLEARANCE     : OFFSEC-L1
+
+ROLE          : Cybersecurity Graduate
+
+SPECIALIZATION:
+  • Web Application Security
+  • API Security
+  • Offensive Security
+
+LOCATION      : Tamil Nadu, India
+
+AVAILABILITY  : Open to Opportunities
+
+SYSTEM        : ONLINE
 ```
 
 </td>
 
-<td width="45%">
+<td width="30%" align="center">
 
-## 🎯 Mission
+## 🛡 ACCESS
 
 ```text
-• Web Application Security
-
-• API Security
-
-• Offensive Security
-
-• Vulnerability Assessment
-
-• CTF Development
-
-• Security Research
+╔══════════════╗
+║    VERIFIED  ║
+╠══════════════╣
+║ OFFSEC-L1    ║
+║ WEB APP SEC  ║
+║ API SECURITY ║
+║ ONLINE       ║
+╚══════════════╝
 ```
 
 </td>
@@ -49,53 +66,14 @@ Availability: Open to Opportunities
 
 </table>
 
-<div align="center">
-
-<a href="https://github.com/Ragul0812">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/ragul-cybersec-engr">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ragul2004s@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
 ---
 
-# 🖥 Terminal Session
+<div align="center">
 
-```bash
-$ whoami
+### 🎯 Mission
 
-Cybersecurity Graduate
+> Specializing in **Web Application Security**, **API Security**, and **Offensive Security** through practical penetration testing, vulnerability assessment, CTF development, and continuous hands-on learning.
 
-$ specialization
-
-• Web Application Security
-
-• API Security
-
-• Offensive Security
-
-$ current_objective
-
-Become a highly skilled Web & API Penetration Tester
-through practical projects, labs, CTFs, and continuous learning.
-
-$ interests
-
-Web Exploitation
-API Exploitation
-Authentication Security
-Authorization Testing
-Business Logic Testing
-OWASP Top 10
-OWASP API Top 10
-```
+</div>
 
 ---
