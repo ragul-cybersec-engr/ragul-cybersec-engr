@@ -2,7 +2,7 @@
 
 # ⚡ CYBER SECURITY ACCESS TERMINAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=STATUS+%3A+VERIFIED;CLEARANCE+%3A+OFFSEC-L1;WEB+APPLICATION+SECURITY;API+SECURITY;OFFENSIVE+SECURITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=3FB950&center=true&vCenter=true&width=650&lines=STATUS+%3A+VERIFIED;CLEARANCE+%3A+OFFSEC-L1;SYSTEM+%3A+ONLINE" alt="Typing SVG" />
 
 </div>
 
@@ -10,69 +10,69 @@
 
 <div align="center">
 
-## 🟢 STATUS : VERIFIED
+### 🟢 STATUS : VERIFIED &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🔐 CLEARANCE : OFFSEC-L1 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌐 SYSTEM : ONLINE
 
 </div>
 
-<table align="center">
+<br>
 
+<table align="center" width="100%">
 <tr>
+<td width="100%" valign="top">
 
-<td width="70%" valign="top">
-
-## 👤 Operator Information
+## 👤 Identity Profile
 
 ```text
-NAME          : Ragul S
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-STATUS        : VERIFIED
+NAME              : Ragul S
 
-CLEARANCE     : OFFSEC-L1
+ROLE              : Cybersecurity Graduate
 
-ROLE          : Cybersecurity Graduate
+LOCATION          : Tamil Nadu, India
 
-SPECIALIZATION:
+STATUS            : VERIFIED
+
+CLEARANCE         : OFFSEC-L1
+
+SPECIALIZATION
+
   • Web Application Security
+
   • API Security
+
   • Offensive Security
 
-LOCATION      : Tamil Nadu, India
+  • Vulnerability Assessment
 
-AVAILABILITY  : Open to Opportunities
+  • CTF Development
 
-SYSTEM        : ONLINE
+MISSION
+
+  Develop practical offensive security skills through
+  hands-on penetration testing, security research,
+  CTF development, and continuous learning.
+
+SYSTEM            : ONLINE
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
-
-<td width="30%" align="center">
-
-## 🛡 ACCESS
-
-```text
-╔══════════════╗
-║    VERIFIED  ║
-╠══════════════╣
-║ OFFSEC-L1    ║
-║ WEB APP SEC  ║
-║ API SECURITY ║
-║ ONLINE       ║
-╚══════════════╝
-```
-
-</td>
-
 </tr>
-
 </table>
 
 ---
 
+## 🎯 Core Security Domains
+
 <div align="center">
 
-### 🎯 Mission
-
-> Specializing in **Web Application Security**, **API Security**, and **Offensive Security** through practical penetration testing, vulnerability assessment, CTF development, and continuous hands-on learning.
+| 🌐 Web Application Security | 🔌 API Security | ⚔️ Offensive Security |
+|:--------------------------:|:---------------:|:--------------------:|
+| Authentication Testing | REST API Testing | Vulnerability Assessment |
+| Authorization Testing | JWT & OAuth | Penetration Testing |
+| Session Management | OWASP API Top 10 | Attack Surface Analysis |
 
 </div>
 
