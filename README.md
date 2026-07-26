@@ -1,16 +1,15 @@
 <div align="center">
 
-# ⚡ CYBER SECURITY ACCESS TERMINAL
+# ⚡ INFO ACCESS TERMINAL
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=3FB950&center=true&vCenter=true&width=650&lines=STATUS+%3A+VERIFIED;SYSTEM+%3A+ONLINE" alt="Typing SVG" />
 
 </div>
-
 <br>
 <table align="center" width="100%">
 <tr>
 <td width="100%" valign="top">
-## 👤 Identity Profile
+👤 Identity Profile
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
