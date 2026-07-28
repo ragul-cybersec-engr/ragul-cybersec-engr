@@ -86,10 +86,6 @@ Always improving.
 
 <br/>
 
-```
-ragul@terminal:~$
->_
-```
 
 </td>
 </tr>
