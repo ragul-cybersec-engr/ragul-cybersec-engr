@@ -22,13 +22,10 @@
 | | |
 |---|---|
 | **NAME** | Ragul S |
-| **STATUS** | `VERIFIED` |
-| **CLEARANCE** | `OFFSEC-L1` |
 | **ROLE** | Cybersecurity Graduate |
 | **SPECIALIZATION** | Web Application Security · API Security · Offensive Security |
 | **LOCATION** | Tamil Nadu, India |
 | **AVAILABILITY** | 🟢 Open to Opportunities |
-| **SYSTEM** | 🟢 ONLINE |
 
 </td>
 </tr>
