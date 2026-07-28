@@ -117,7 +117,7 @@ A full-stack Capture The Flag platform to create and solve real-world security c
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**STATUS:** 🟢 ACTIVE &nbsp; [``](#)
+**STATUS:** 🟢 ACTIVE &nbsp; [](#)
 
 </td>
 <td width="50%" valign="top">
@@ -137,7 +137,7 @@ Python-based security monitoring and reporting tool for educational and research
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**STATUS:** 🟢 ACTIVE &nbsp; [``](#)
+**STATUS:** 🟢 ACTIVE &nbsp; [](#)
 
 </td>
 </tr>
