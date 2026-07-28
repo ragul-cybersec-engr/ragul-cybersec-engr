@@ -1,31 +1,33 @@
 <div align="center">
 
-# 🛡️ CYBER SECURITY ACCESS TERMINAL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=90&section=header&text=%3E_%20ragul-cybersec-engr%20/%20README.md&fontColor=00ff9d&fontSize=22&fontAlignY=55&fontAlign=10" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=70&text=%3C%3E%20CYBER%20SECURITY%20ACCESS%20TERMINAL&fontColor=00ff9d&fontSize=30&fontAlignY=55&fontAlign=8" width="100%"/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="260" align="center">
+<td width="270" align="center">
 
-<img src="./assets/avatar.png" width="220" style="border-radius:50%;border:2px solid #00ff9d;" alt="Ragul S"/>
+<img src="./assets/avatar.png" width="220" alt="Ragul S"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🔒_ACCESS-GRANTED-00ff9d?style=for-the-badge&labelColor=0d1117" />
 
 </td>
 <td>
 
-### OPERATOR CARD
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=45&text=OPERATOR%20CARD&fontColor=00ff9d&fontSize=18&fontAlignY=55&fontAlign=2" width="100%"/>
 
-| | |
-|---|---|
+| FIELD | VALUE |
+|:--|:--|
 | **NAME** | Ragul S |
-| **STATUS** | `VERIFIED` |
+| **STATUS** | 🟢 `VERIFIED` |
 | **CLEARANCE** | `OFFSEC-L1` |
 | **ROLE** | Cybersecurity Graduate |
-| **SPECIALIZATION** | Web Application Security · API Security · Offensive Security |
+| **SPECIALIZATION** | Web Application Security<br/>API Security<br/>Offensive Security |
 | **LOCATION** | Tamil Nadu, India |
 | **AVAILABILITY** | 🟢 Open to Opportunities |
 | **SYSTEM** | 🟢 ONLINE |
@@ -34,28 +36,22 @@
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=45&text=%3E_%20TERMINAL%20SESSION&fontColor=00ff9d&fontSize=18&fontAlignY=55&fontAlign=2" width="100%"/>
 
-## `>_` TERMINAL SESSION
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="34%">
 
-**$ whoami**
-```
+```bash
+$ whoami
 Cybersecurity Graduate
-```
 
-**$ specialization**
-```
+$ specialization
 • Web Application Security
 • API Security
 • Offensive Security
-```
 
-**$ current_objective**
-```
+$ current_objective
 Become a highly skilled Web & API
 Penetration Tester through practical
 projects, labs, CTFs and continuous
@@ -65,8 +61,8 @@ learning.
 </td>
 <td valign="top" width="33%">
 
-**$ skills_focus**
-```
+```bash
+$ skills_focus
 • Web Exploitation
 • API Exploitation
 • Authentication Security
@@ -79,17 +75,15 @@ learning.
 </td>
 <td valign="top" width="33%">
 
-**$ mindset**
-```
+```bash
+$ mindset
 Offensive thinking.
 Defensive impact.
 Always learning.
 Always improving.
 ```
 
-<br/>
-
-```
+```bash
 ragul@terminal:~$
 >_
 ```
@@ -98,16 +92,13 @@ ragul@terminal:~$
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=45&text=%F0%9F%93%82%20CLASSIFIED%20SECURITY%20PROJECTS&fontColor=00ff9d&fontSize=18&fontAlignY=55&fontAlign=2" width="100%"/>
 
-## 📂 CLASSIFIED SECURITY PROJECTS
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💻 CYKRYPT – CTF PLATFORM
-<img src="https://img.shields.io/badge/TOP_SECRET-red?style=flat-square" />
+**💻 CYKRYPT – CTF PLATFORM** &nbsp; ![](https://img.shields.io/badge/TOP_SECRET-8b0000?style=flat-square)
 
 A full-stack Capture The Flag platform to create and solve real-world security challenges.
 
@@ -119,19 +110,18 @@ A full-stack Capture The Flag platform to create and solve real-world security c
 - Secure Backend Architecture
 
 **TECH STACK**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=00ff9d)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=07405e)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**STATUS:** 🟢 ACTIVE &nbsp; [`VIEW PROJECT`](#)
+`STATUS: ACTIVE` &nbsp; [`VIEW PROJECT`](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 SECURITY MONITORING TOOL
-<img src="https://img.shields.io/badge/TOP_SECRET-red?style=flat-square" />
+**💻 SECURITY MONITORING TOOL** &nbsp; ![](https://img.shields.io/badge/TOP_SECRET-8b0000?style=flat-square)
 
 Python-based security monitoring and reporting tool for educational and research purposes.
 
@@ -143,52 +133,46 @@ Python-based security monitoring and reporting tool for educational and research
 - Modular & Extensible
 
 **TECH STACK**
+<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**STATUS:** 🟢 ACTIVE &nbsp; [`VIEW PROJECT`](#)
+`STATUS: ACTIVE` &nbsp; [`VIEW PROJECT`](#)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🌐 SECURITY DOMAINS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=45&text=%F0%9F%8C%90%20SECURITY%20DOMAINS&fontColor=00ff9d&fontSize=18&fontAlignY=55&fontAlign=2" width="100%"/>
 
 <div align="center">
 
-![Web AppSec](https://img.shields.io/badge/🌐-Web_AppSec-0d1117?style=for-the-badge)
-![API Security](https://img.shields.io/badge/🔌-API_Security-0d1117?style=for-the-badge)
-![Offensive Security](https://img.shields.io/badge/🥷-Offensive_Security-0d1117?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/🔍-Vulnerability_Assessment-0d1117?style=for-the-badge)
-![CTF Development](https://img.shields.io/badge/🚩-CTF_Development-0d1117?style=for-the-badge)
-![Security Research](https://img.shields.io/badge/🧪-Security_Research-0d1117?style=for-the-badge)
+![Web AppSec](https://img.shields.io/badge/🌐_Web-AppSec-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9d)
+![API Security](https://img.shields.io/badge/🔌_API-Security-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9d)
+![Offensive Security](https://img.shields.io/badge/🥷_Offensive-Security-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9d)
+![Vulnerability Assessment](https://img.shields.io/badge/🔍_Vulnerability-Assessment-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9d)
+![CTF Development](https://img.shields.io/badge/🚩_CTF-Development-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9d)
+![Security Research](https://img.shields.io/badge/🧪_Security-Research-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9d)
 
 </div>
 
----
-
-## ⚔️ CURRENT ARSENAL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=45&text=%E2%9A%94%EF%B8%8F%20CURRENT%20ARSENAL&fontColor=00ff9d&fontSize=18&fontAlignY=55&fontAlign=2" width="100%"/>
 
 <div align="center">
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6600)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff9d)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00ff9d)
 
 </div>
 
----
-
-## 🎖️ CERTIFICATION VAULT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=45&text=%F0%9F%8E%96%EF%B8%8F%20CERTIFICATION%20VAULT&fontColor=00ff9d&fontSize=18&fontAlignY=55&fontAlign=2" width="100%"/>
 
 - ✅ eLearnSecurity Junior Penetration Tester (eJPT)
 - ✅ Certified API Red Team Analyst (API-RTA)
@@ -197,10 +181,4 @@ Python-based security monitoring and reporting tool for educational and research
 - ✅ IBM Ethical Hacking with Kali Linux
 - ✅ Google Cybersecurity Professional Certificate
 
----
-
-<div align="center">
-
-`root@ragul-terminal:~$` &nbsp;&nbsp;&nbsp; **STAY CURIOUS. THINK OFFENSIVE. BUILD SECURE.** 🔒
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=70&section=footer&text=root%40ragul-terminal%3A~%24%20%20%20STAY%20CURIOUS.%20THINK%20OFFENSIVE.%20BUILD%20SECURE.&fontColor=00ff9d&fontSize=16&fontAlignY=55&fontAlign=50" width="100%"/>
