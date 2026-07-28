@@ -8,7 +8,7 @@
 <tr>
 <td width="260" align="center">
 
-<img src="./assets/avatar.png" width="220" style="border-radius:50%;border:2px solid #00ff9d;" alt="Ragul S"/>
+<img src="avatar.png.png" width="220" style="border-radius:50%;border:2px solid #00ff9d;" alt="Ragul S"/>
 
 <br/>
 
