@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔒_ACCESS-GRANTED-00ff9d?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔒_USER-VERIFIED-00ff9d?style=for-the-badge&labelColor=0d1117" />
 
 </td>
 <td>
