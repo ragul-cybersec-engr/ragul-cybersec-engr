@@ -8,7 +8,7 @@
 <tr>
 <td width="260" align="center">
 
-<img src="avatar.png.png" width="220" style="border-radius:50%;border:2px solid #00ff9d;" alt="Ragul S"/>
+<img src="character.png" width="220" style="border-radius:50%;border:2px solid #00ff9d;" alt="Ragul S"/>
 
 <br/>
 
@@ -104,7 +104,6 @@ ragul@terminal:~$
 <td width="50%" valign="top">
 
 ### 💻 CYKRYPT – CTF PLATFORM
-<img src="https://img.shields.io/badge/TOP_SECRET-red?style=flat-square" />
 
 A full-stack Capture The Flag platform to create and solve real-world security challenges.
 
@@ -122,13 +121,12 @@ A full-stack Capture The Flag platform to create and solve real-world security c
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**STATUS:** 🟢 ACTIVE &nbsp; [`VIEW PROJECT`](#)
+**STATUS:** 🟢 ACTIVE &nbsp; [``](#)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💻 SECURITY MONITORING TOOL
-<img src="https://img.shields.io/badge/TOP_SECRET-red?style=flat-square" />
 
 Python-based security monitoring and reporting tool for educational and research purposes.
 
@@ -143,7 +141,7 @@ Python-based security monitoring and reporting tool for educational and research
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**STATUS:** 🟢 ACTIVE &nbsp; [`VIEW PROJECT`](#)
+**STATUS:** 🟢 ACTIVE &nbsp; [``](#)
 
 </td>
 </tr>
