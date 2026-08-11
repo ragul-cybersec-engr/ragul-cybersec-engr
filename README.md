@@ -1,197 +1,194 @@
 <div align="center">
 
-# 🛡️ CYBER SECURITY ACCESS TERMINAL
+# 🛡️ RAGUL S
+
+### Cybersecurity Graduate · Ethical Hacker
+
+**Web Application Security · API Security · Offensive Security**
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00FF9C?style=for-the-badge&labelColor=0D1117" alt="status"/>
+<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU%2C_INDIA-39D3FF?style=for-the-badge&labelColor=0D1117" alt="location"/>
+
+<br>
+
+*Security-focused cybersecurity graduate building practical expertise in web and API penetration testing, offensive security, and vulnerability assessment — one project, lab, and CTF at a time.*
 
 </div>
 
-<table>
-<tr>
-<td width="260" align="center">
+<br>
 
-<img src="character.png" width="220" style="border-radius:50%;border:2px solid #00ff9d;" alt="Ragul S"/>
+---
 
-<br/>
+## 🗂️ OPERATOR PROFILE
 
-<img src="https://img.shields.io/badge/🔒_USER-VERIFIED-00ff9d?style=for-the-badge&labelColor=0d1117" />
-
-</td>
-<td>
-
-### OPERATOR CARD
-
-| | |
-|---|---|
-| **NAME** | Ragul S |
+| FIELD | VALUE |
+|:--|:--|
+| **OPERATOR** | Ragul S |
 | **ROLE** | Cybersecurity Graduate |
-| **SPECIALIZATION** | Web Application Security · API Security · Offensive Security |
+| **FOCUS** | Web & API Security |
+| **DOMAIN** | Offensive Security |
+| **STATUS** | 🟢 OPEN TO OPPORTUNITIES |
 | **LOCATION** | Tamil Nadu, India |
-| **AVAILABILITY** | 🟢 Open to Opportunities |
-
-</td>
-</tr>
-</table>
 
 ---
 
-## `>_` TERMINAL SESSION
+## 💻 TERMINAL SESSION
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**$ whoami**
+```bash
+ragul@security-ops:~$ whoami
 ```
-Cybersecurity Graduate
-```
+> Cybersecurity Graduate — building hands-on offensive security expertise.
 
-**$ specialization**
+```bash
+ragul@security-ops:~$ specialization --list
 ```
-• Web Application Security
-• API Security
-• Offensive Security
+> Web Application Security · API Security · Offensive Security
+
+```bash
+ragul@security-ops:~$ cat objective.txt
 ```
+> Become a highly skilled Web & API Penetration Tester through practical projects, labs, CTFs, and continuous learning.
 
-**$ current_objective**
+```bash
+ragul@security-ops:~$ cat mindset.txt
 ```
-Become a highly skilled Web & API
-Penetration Tester through practical
-projects, labs, CTFs and continuous
-learning.
-```
-
-</td>
-<td valign="top" width="33%">
-
-**$ skills_focus**
-```
-• Web Exploitation
-• API Exploitation
-• Authentication Security
-• Authorization Testing
-• Business Logic Testing
-• OWASP Top 10
-• OWASP API Top 10
-```
-
-</td>
-<td valign="top" width="33%">
-
-**$ mindset**
-```
-Offensive thinking.
-Defensive impact.
-Always learning.
-Always improving.
-```
-
-<br/>
-
-
-</td>
-</tr>
-</table>
+> Offensive thinking. Defensive impact.
+> Always learning. Always improving.
 
 ---
 
-## 📂 CLASSIFIED SECURITY PROJECTS
+## 🎯 SECURITY FOCUS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Primary Focus**
+- Web Application Security
+- API Security
+- Penetration Testing
+- Vulnerability Assessment
+- Offensive Security
 
-### 💻 CYKRYPT – CTF PLATFORM
+**Security Testing Areas**
+- Web Exploitation
+- API Exploitation
+- Authentication Security
+- Authorization Testing
+- Business Logic Testing
+- OWASP Top 10
+- OWASP API Top 10
 
-A full-stack Capture The Flag platform to create and solve real-world security challenges.
+---
 
-**KEY MODULES**
+## 🧭 SECURITY DOMAINS
+
+`Web AppSec` · `API Security` · `Offensive Security` · `Vulnerability Assessment` · `CTF Development` · `Security Research`
+
+---
+
+## 🧰 CURRENT ARSENAL
+
+**Web & API Security**
+<br>
+<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logoColor=00FF9C" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=39D3FF" alt="Postman"/>
+<img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF9C" alt="JWT"/>
+
+**Network Security**
+<br>
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=39D3FF" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=39D3FF" alt="Wireshark"/>
+
+**Offensive Security**
+<br>
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logoColor=00FF9C" alt="Metasploit"/>
+
+**Development & Automation**
+<br>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39D3FF" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=39D3FF" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C" alt="Linux"/>
+
+---
+
+## 🗃️ CLASSIFIED PROJECTS
+
+### 🔐 PROJECT 01 — CYKRYPT CTF PLATFORM
+`🟢 ACTIVE`
+
+A full-stack Capture The Flag platform to create and solve real-world security challenges — built to demonstrate **Security + Development + CTF Engineering** together.
+
+<details>
+<summary><b>View project details</b></summary>
+<br>
+
+**Modules**
 - Secure Authentication
 - Challenge Management
 - Real-Time Scoreboard
 - Administrative Dashboard
 - Secure Backend Architecture
 
-**TECH STACK**
+**Stack:** `Node.js` · `Express` · `SQLite` · `Docker`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</details>
 
-**STATUS:** 🟢 ACTIVE &nbsp; [](#)
+<br>
 
-</td>
-<td width="50%" valign="top">
+### 🌐 PROJECT 02 — UNIFIED WEB RECON PLATFORM
+`🟢 ACTIVE`
 
-### 💻 SECURITY MONITORING TOOL
+A Dockerized, GUI-based web application reconnaissance platform that automates the early stages of a security assessment from a single browser dashboard — chaining **Subfinder**, **Naabu**, and **HTTPX** behind a FastAPI backend instead of juggling disconnected CLI tools.
 
-Python-based security monitoring and reporting tool for educational and research purposes.
+<details>
+<summary><b>View project details</b></summary>
+<br>
 
-**KEY FEATURES**
-- Secure Logging
-- Encrypted Data Handling
-- Email Reporting
-- Activity Monitoring
-- Modular & Extensible
+**Modules**
+- JWT-Based Authentication with Email OTP Login
+- Domain Scan (subdomain enumeration) & Extended Scan (subdomains → open ports → live hosts)
+- Centralized Scan Queue with Duplicate-Job Protection
+- Scan Dashboard & History
+- Multi-Format Reporting (PDF / DOCX / TXT / XML) with Email Delivery
 
-**TECH STACK**
+**Stack:** `Python` · `FastAPI` · `Docker` · `Subfinder` · `Naabu` · `HTTPX`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Repo:** [unified-web-recon-platform](https://github.com/ragul-cybersec-engr/unified-web-recon-platform)
 
-**STATUS:** 🟢 ACTIVE &nbsp; [](#)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 🌐 SECURITY DOMAINS
+## 🎓 CERTIFICATION VAULT
 
-<div align="center">
+**Offensive Security**
+- eLearnSecurity Junior Penetration Tester (eJPT)
+- Certified API Red Team Analyst (API-RTA)
+- Certified Network Security Practitioner (CNSP)
 
-![Web AppSec](https://img.shields.io/badge/🌐-Web_AppSec-0d1117?style=for-the-badge)
-![API Security](https://img.shields.io/badge/🔌-API_Security-0d1117?style=for-the-badge)
-![Offensive Security](https://img.shields.io/badge/🥷-Offensive_Security-0d1117?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/🔍-Vulnerability_Assessment-0d1117?style=for-the-badge)
-![CTF Development](https://img.shields.io/badge/🚩-CTF_Development-0d1117?style=for-the-badge)
-![Security Research](https://img.shields.io/badge/🧪-Security_Research-0d1117?style=for-the-badge)
+**Security Governance / Audit**
+- ISO/IEC 27001 Lead Auditor
 
-</div>
-
----
-
-## ⚔️ CURRENT ARSENAL
-
-<div align="center">
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
+**Professional Learning**
+- IBM Ethical Hacking with Kali Linux
+- Google Cybersecurity Professional Certificate
 
 ---
 
-## 🎖️ CERTIFICATION VAULT
+## 📌 CURRENT OBJECTIVE
 
-- ✅ eLearnSecurity Junior Penetration Tester (eJPT)
-- ✅ Certified API Red Team Analyst (API-RTA)
-- ✅ Certified Network Security Practitioner (CNSP)
-- ✅ ISO/IEC 27001 Lead Auditor
-- ✅ IBM Ethical Hacking with Kali Linux
-- ✅ Google Cybersecurity Professional Certificate
+I'm a cybersecurity graduate with a hands-on, ethical-hacking background — I build security tools and platforms rather than just study the concepts, work through CTF-style challenges, and experiment with offensive-security tooling to understand how real systems fail. My focus is web and API security testing, backed by growing automation and secure-engineering skills. I'm open to entry-level opportunities in penetration testing, vulnerability assessment, and application security where I can keep learning on the job.
+
+`RECON → ENUMERATE → TEST → EXPLOIT → REPORT → SECURE`
 
 ---
 
 <div align="center">
 
-`root@ragul-terminal:~$` &nbsp;&nbsp;&nbsp; **STAY CURIOUS. THINK OFFENSIVE. BUILD SECURE.** 🔒
+```bash
+root@ragul-terminal:~$ echo "Thanks for stopping by."
+Thanks for stopping by.
+root@ragul-terminal:~$ ▍
+```
+
+**Stay curious. Think offensive. Build secure.**
 
 </div>
