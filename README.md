@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=150&section=header&text=RAGUL%20S&fontSize=48&fontColor=00FF9C&fontAlignY=42&desc=CYBERSECURITY%20GRADUATE%20%7C%20ETHICAL%20HACKER&descAlignY=68&descSize=18&descColor=39D3FF&fontFamily=Fira%20Code" width="100%" alt="Ragul S — Cybersecurity Graduate | Ethical Hacker"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=150&section=header&text=RAGUL%20S&fontSize=48&fontColor=00FF9C&fontAlignY=42&desc=CYBERSECURITY%20GRADUATE%20%7C%20ETHICAL%20HACKER&descAlignY=68&descSize=18&descColor=00FF9C&fontFamily=Fira%20Code" width="100%" alt="Ragul S — Cybersecurity Graduate | Ethical Hacker"/>
 
 ### Web Application Security · API Security · Offensive Security
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00FF9C?style=for-the-badge&labelColor=161B22" alt="status"/>
-<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU%2C_INDIA-39D3FF?style=for-the-badge&labelColor=161B22" alt="location"/>
+<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU%2C_INDIA-00FF9C?style=for-the-badge&labelColor=161B22" alt="location"/>
 
 <br>
 
@@ -20,10 +20,10 @@
 <table width="100%">
 <tr><td width="220">🧑‍💻&nbsp;<b>OPERATOR</b></td><td>Ragul S</td></tr>
 <tr><td>🎓&nbsp;<b>ROLE</b></td><td>Cybersecurity Graduate</td></tr>
-<tr><td>🎯&nbsp;<b>FOCUS</b></td><td><img src="https://img.shields.io/badge/WEB_%26_API_SECURITY-39D3FF?style=flat-square" alt="Web & API Security"/></td></tr>
-<tr><td>⚔️&nbsp;<b>DOMAIN</b></td><td><img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-FF5C5C?style=flat-square" alt="Offensive Security"/></td></tr>
+<tr><td>🎯&nbsp;<b>FOCUS</b></td><td><img src="https://img.shields.io/badge/WEB_%26_API_SECURITY-00FF9C?style=flat-square" alt="Web & API Security"/></td></tr>
+<tr><td>⚔️&nbsp;<b>DOMAIN</b></td><td><img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-00FF9C?style=flat-square" alt="Offensive Security"/></td></tr>
 <tr><td>🟢&nbsp;<b>STATUS</b></td><td><img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-00FF9C?style=flat-square" alt="Open to Opportunities"/></td></tr>
-<tr><td>📍&nbsp;<b>LOCATION</b></td><td><img src="https://img.shields.io/badge/TAMIL_NADU%2C_INDIA-39D3FF?style=flat-square" alt="Tamil Nadu, India"/></td></tr>
+<tr><td>📍&nbsp;<b>LOCATION</b></td><td><img src="https://img.shields.io/badge/TAMIL_NADU%2C_INDIA-00FF9C?style=flat-square" alt="Tamil Nadu, India"/></td></tr>
 </table>
 
 <br>
@@ -72,13 +72,13 @@ ragul@security-ops:~$ cat mindset.txt
 <img src="https://img.shields.io/badge/Offensive_Security-00FF9C?style=flat-square" alt=""/>
 </td>
 <td valign="top">
-<img src="https://img.shields.io/badge/Web_Exploitation-39D3FF?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/API_Exploitation-39D3FF?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/Authentication_Security-39D3FF?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/Authorization_Testing-39D3FF?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/Business_Logic_Testing-39D3FF?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/OWASP_Top_10-39D3FF?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/OWASP_API_Top_10-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Web_Exploitation-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/API_Exploitation-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Authentication_Security-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Authorization_Testing-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Business_Logic_Testing-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/OWASP_Top_10-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/OWASP_API_Top_10-00FF9C?style=flat-square" alt=""/>
 </td>
 </tr>
 </table>
@@ -91,10 +91,10 @@ ragul@security-ops:~$ cat mindset.txt
 
 <img src="https://img.shields.io/badge/Web_AppSec-00FF9C?style=flat-square" alt=""/>
 <img src="https://img.shields.io/badge/API_Security-00FF9C?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Offensive_Security-FF5C5C?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Offensive_Security-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-00FF9C?style=flat-square" alt=""/>
 <img src="https://img.shields.io/badge/CTF_Development-00FF9C?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Security_Research-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Security_Research-00FF9C?style=flat-square" alt=""/>
 
 </div>
 
@@ -114,14 +114,14 @@ ragul@security-ops:~$ cat mindset.txt
 <tr>
 <td width="220">📡&nbsp;<b>Network Security</b></td>
 <td>
-<img src="https://img.shields.io/badge/Nmap-39D3FF?style=for-the-badge" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-39D3FF?style=for-the-badge&logo=wireshark&logoColor=0D1117" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-00FF9C?style=for-the-badge" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-00FF9C?style=for-the-badge&logo=wireshark&logoColor=0D1117" alt="Wireshark"/>
 </td>
 </tr>
 <tr>
 <td width="220">💀&nbsp;<b>Offensive Security</b></td>
 <td>
-<img src="https://img.shields.io/badge/Metasploit-FF5C5C?style=for-the-badge" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Metasploit-00FF9C?style=for-the-badge" alt="Metasploit"/>
 </td>
 </tr>
 <tr>
@@ -145,11 +145,11 @@ A full-stack Capture The Flag platform to create and solve real-world security c
 
 **Key Modules**
 <br>
-<img src="https://img.shields.io/badge/Secure_Authentication-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Challenge_Management-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Real--Time_Scoreboard-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Administrative_Dashboard-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Secure_Backend_Architecture-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Secure_Authentication-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Challenge_Management-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Real--Time_Scoreboard-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Administrative_Dashboard-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Secure_Backend_Architecture-00FF9C?style=flat-square" alt=""/>
 
 **Stack**
 <br>
@@ -166,11 +166,11 @@ A Dockerized, GUI-based web application reconnaissance platform that automates t
 
 **Key Modules**
 <br>
-<img src="https://img.shields.io/badge/JWT_%2B_Email_OTP_Auth-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Domain_%26_Extended_Scan-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Centralized_Scan_Queue-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Scan_Dashboard_%26_History-39D3FF?style=flat-square" alt=""/>
-<img src="https://img.shields.io/badge/Multi--Format_Reporting-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/JWT_%2B_Email_OTP_Auth-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Domain_%26_Extended_Scan-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Centralized_Scan_Queue-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Scan_Dashboard_%26_History-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Multi--Format_Reporting-00FF9C?style=flat-square" alt=""/>
 
 **Stack**
 <br>
@@ -195,12 +195,12 @@ A Dockerized, GUI-based web application reconnaissance platform that automates t
 </tr>
 <tr>
 <td valign="top">
-<img src="https://img.shields.io/badge/eJPT-FF5C5C?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/API--RTA-FF5C5C?style=flat-square" alt=""/><br>
-<img src="https://img.shields.io/badge/CNSP-FF5C5C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/eJPT-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/API--RTA-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/CNSP-00FF9C?style=flat-square" alt=""/>
 </td>
 <td valign="top">
-<img src="https://img.shields.io/badge/ISO%2FIEC_27001_Lead_Auditor-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/ISO%2FIEC_27001_Lead_Auditor-00FF9C?style=flat-square" alt=""/>
 </td>
 <td valign="top">
 <img src="https://img.shields.io/badge/IBM_Ethical_Hacking-00FF9C?style=flat-square" alt=""/><br>
@@ -218,10 +218,10 @@ A Dockerized, GUI-based web application reconnaissance platform that automates t
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RECON-39D3FF?style=flat-square" alt=""/> ➜
-<img src="https://img.shields.io/badge/ENUMERATE-39D3FF?style=flat-square" alt=""/> ➜
-<img src="https://img.shields.io/badge/TEST-39D3FF?style=flat-square" alt=""/> ➜
-<img src="https://img.shields.io/badge/EXPLOIT-FF5C5C?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/RECON-00FF9C?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/ENUMERATE-00FF9C?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/TEST-00FF9C?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/EXPLOIT-00FF9C?style=flat-square" alt=""/> ➜
 <img src="https://img.shields.io/badge/REPORT-00FF9C?style=flat-square" alt=""/> ➜
 <img src="https://img.shields.io/badge/SECURE-00FF9C?style=flat-square" alt=""/>
 
