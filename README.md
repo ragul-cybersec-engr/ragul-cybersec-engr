@@ -20,10 +20,10 @@
 <table width="100%">
 <tr><td width="220">🧑‍💻&nbsp;<b>OPERATOR</b></td><td>Ragul S</td></tr>
 <tr><td>🎓&nbsp;<b>ROLE</b></td><td>Cybersecurity Graduate</td></tr>
-<tr><td>🎯&nbsp;<b>FOCUS</b></td><td>Web & API Security</td></tr>
-<tr><td>⚔️&nbsp;<b>DOMAIN</b></td><td>Offensive Security</td></tr>
-<tr><td>🟢&nbsp;<b>STATUS</b></td><td>Open to Opportunities</td></tr>
-<tr><td>📍&nbsp;<b>LOCATION</b></td><td>Tamil Nadu, India</td></tr>
+<tr><td>🎯&nbsp;<b>FOCUS</b></td><td><img src="https://img.shields.io/badge/WEB_%26_API_SECURITY-39D3FF?style=flat-square" alt="Web & API Security"/></td></tr>
+<tr><td>⚔️&nbsp;<b>DOMAIN</b></td><td><img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-FF5C5C?style=flat-square" alt="Offensive Security"/></td></tr>
+<tr><td>🟢&nbsp;<b>STATUS</b></td><td><img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-00FF9C?style=flat-square" alt="Open to Opportunities"/></td></tr>
+<tr><td>📍&nbsp;<b>LOCATION</b></td><td><img src="https://img.shields.io/badge/TAMIL_NADU%2C_INDIA-39D3FF?style=flat-square" alt="Tamil Nadu, India"/></td></tr>
 </table>
 
 <br>
@@ -33,23 +33,26 @@
 ```bash
 ragul@security-ops:~$ whoami
 ```
+> [!TIP]
 > Cybersecurity Graduate — building hands-on offensive security expertise.
 
 ```bash
 ragul@security-ops:~$ specialization --list
 ```
+> [!TIP]
 > Web Application Security · API Security · Offensive Security
 
 ```bash
 ragul@security-ops:~$ cat objective.txt
 ```
+> [!TIP]
 > Become a highly skilled Web & API Penetration Tester through practical projects, labs, CTFs, and continuous learning.
 
 ```bash
 ragul@security-ops:~$ cat mindset.txt
 ```
-> Offensive thinking. Defensive impact.
-> Always learning. Always improving.
+> [!TIP]
+> Offensive thinking. Defensive impact. Always learning. Always improving.
 
 <br>
 
@@ -62,24 +65,20 @@ ragul@security-ops:~$ cat mindset.txt
 </tr>
 <tr>
 <td valign="top">
-
-- Web Application Security
-- API Security
-- Penetration Testing
-- Vulnerability Assessment
-- Offensive Security
-
+<img src="https://img.shields.io/badge/Web_Application_Security-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/API_Security-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Penetration_Testing-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Offensive_Security-00FF9C?style=flat-square" alt=""/>
 </td>
 <td valign="top">
-
-- Web Exploitation
-- API Exploitation
-- Authentication Security
-- Authorization Testing
-- Business Logic Testing
-- OWASP Top 10
-- OWASP API Top 10
-
+<img src="https://img.shields.io/badge/Web_Exploitation-39D3FF?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/API_Exploitation-39D3FF?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Authentication_Security-39D3FF?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Authorization_Testing-39D3FF?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Business_Logic_Testing-39D3FF?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/OWASP_Top_10-39D3FF?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/OWASP_API_Top_10-39D3FF?style=flat-square" alt=""/>
 </td>
 </tr>
 </table>
@@ -90,7 +89,12 @@ ragul@security-ops:~$ cat mindset.txt
 
 <div align="center">
 
-`Web AppSec` · `API Security` · `Offensive Security` · `Vulnerability Assessment` · `CTF Development` · `Security Research`
+<img src="https://img.shields.io/badge/Web_AppSec-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/API_Security-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Offensive_Security-FF5C5C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/CTF_Development-00FF9C?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Security_Research-39D3FF?style=flat-square" alt=""/>
 
 </div>
 
@@ -100,33 +104,33 @@ ragul@security-ops:~$ cat mindset.txt
 
 <table width="100%">
 <tr>
-<td width="220"><b>🌐 Web & API Security</b></td>
+<td width="220">🌐&nbsp;<b>Web & API Security</b></td>
 <td>
-<img src="https://img.shields.io/badge/Burp_Suite-161B22?style=for-the-badge&logoColor=00FF9C" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=39D3FF" alt="Postman"/>
-<img src="https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF9C" alt="JWT"/>
+<img src="https://img.shields.io/badge/Burp_Suite-00FF9C?style=for-the-badge" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Postman-00FF9C?style=for-the-badge&logo=postman&logoColor=0D1117" alt="Postman"/>
+<img src="https://img.shields.io/badge/JWT-00FF9C?style=for-the-badge&logo=jsonwebtokens&logoColor=0D1117" alt="JWT"/>
 </td>
 </tr>
 <tr>
-<td width="220"><b>📡 Network Security</b></td>
+<td width="220">📡&nbsp;<b>Network Security</b></td>
 <td>
-<img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&logoColor=39D3FF" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=39D3FF" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-39D3FF?style=for-the-badge" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-39D3FF?style=for-the-badge&logo=wireshark&logoColor=0D1117" alt="Wireshark"/>
 </td>
 </tr>
 <tr>
-<td width="220"><b>💀 Offensive Security</b></td>
+<td width="220">💀&nbsp;<b>Offensive Security</b></td>
 <td>
-<img src="https://img.shields.io/badge/Metasploit-161B22?style=for-the-badge&logoColor=00FF9C" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Metasploit-FF5C5C?style=for-the-badge" alt="Metasploit"/>
 </td>
 </tr>
 <tr>
-<td width="220"><b>⚙️ Dev & Automation</b></td>
+<td width="220">⚙️&nbsp;<b>Dev & Automation</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=39D3FF" alt="Python"/>
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=00FF9C" alt="Git"/>
-<img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=39D3FF" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=00FF9C" alt="Linux"/>
+<img src="https://img.shields.io/badge/Python-00FF9C?style=for-the-badge&logo=python&logoColor=0D1117" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-00FF9C?style=for-the-badge&logo=git&logoColor=0D1117" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-00FF9C?style=for-the-badge&logo=docker&logoColor=0D1117" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-00FF9C?style=for-the-badge&logo=linux&logoColor=0D1117" alt="Linux"/>
 </td>
 </tr>
 </table>
@@ -135,45 +139,47 @@ ragul@security-ops:~$ cat mindset.txt
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=CLASSIFIED%20PROJECTS&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Classified Projects"/>
 
-### 🔐 PROJECT 01 — CYKRYPT CTF PLATFORM &nbsp; `🟢 ACTIVE`
+### 🔐 PROJECT 01 — CYKRYPT CTF PLATFORM &nbsp; <img src="https://img.shields.io/badge/ACTIVE-00FF9C?style=flat-square" alt="Active"/>
 
 A full-stack Capture The Flag platform to create and solve real-world security challenges — built to demonstrate **Security + Development + CTF Engineering** together.
 
 **Key Modules**
-- Secure Authentication
-- Challenge Management
-- Real-Time Scoreboard
-- Administrative Dashboard
-- Secure Backend Architecture
+<br>
+<img src="https://img.shields.io/badge/Secure_Authentication-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Challenge_Management-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Real--Time_Scoreboard-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Administrative_Dashboard-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Secure_Backend_Architecture-39D3FF?style=flat-square" alt=""/>
 
 **Stack**
 <br>
-<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=00FF9C" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=39D3FF" alt="Express"/>
-<img src="https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=00FF9C" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=39D3FF" alt="Docker"/>
+<img src="https://img.shields.io/badge/Node.js-00FF9C?style=flat-square&logo=nodedotjs&logoColor=0D1117" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-00FF9C?style=flat-square&logo=express&logoColor=0D1117" alt="Express"/>
+<img src="https://img.shields.io/badge/SQLite-00FF9C?style=flat-square&logo=sqlite&logoColor=0D1117" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Docker-00FF9C?style=flat-square&logo=docker&logoColor=0D1117" alt="Docker"/>
 
 <br><br>
 
-### 🌐 PROJECT 02 — UNIFIED WEB RECON PLATFORM &nbsp; `🟢 ACTIVE`
+### 🌐 PROJECT 02 — UNIFIED WEB RECON PLATFORM &nbsp; <img src="https://img.shields.io/badge/ACTIVE-00FF9C?style=flat-square" alt="Active"/>
 
 A Dockerized, GUI-based web application reconnaissance platform that automates the early stages of a security assessment from a single browser dashboard — chaining **Subfinder**, **Naabu**, and **HTTPX** behind a FastAPI backend instead of juggling disconnected CLI tools.
 
 **Key Modules**
-- JWT-Based Authentication with Email OTP Login
-- Domain Scan (subdomain enumeration) & Extended Scan (subdomains → open ports → live hosts)
-- Centralized Scan Queue with Duplicate-Job Protection
-- Scan Dashboard & History
-- Multi-Format Reporting (PDF / DOCX / TXT / XML) with Email Delivery
+<br>
+<img src="https://img.shields.io/badge/JWT_%2B_Email_OTP_Auth-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Domain_%26_Extended_Scan-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Centralized_Scan_Queue-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Scan_Dashboard_%26_History-39D3FF?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/Multi--Format_Reporting-39D3FF?style=flat-square" alt=""/>
 
 **Stack**
 <br>
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=39D3FF" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=00FF9C" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=39D3FF" alt="Docker"/>
-<img src="https://img.shields.io/badge/Subfinder-161B22?style=flat-square&logoColor=00FF9C" alt="Subfinder"/>
-<img src="https://img.shields.io/badge/Naabu-161B22?style=flat-square&logoColor=39D3FF" alt="Naabu"/>
-<img src="https://img.shields.io/badge/HTTPX-161B22?style=flat-square&logoColor=00FF9C" alt="HTTPX"/>
+<img src="https://img.shields.io/badge/Python-00FF9C?style=flat-square&logo=python&logoColor=0D1117" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-00FF9C?style=flat-square&logo=fastapi&logoColor=0D1117" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-00FF9C?style=flat-square&logo=docker&logoColor=0D1117" alt="Docker"/>
+<img src="https://img.shields.io/badge/Subfinder-00FF9C?style=flat-square" alt="Subfinder"/>
+<img src="https://img.shields.io/badge/Naabu-00FF9C?style=flat-square" alt="Naabu"/>
+<img src="https://img.shields.io/badge/HTTPX-00FF9C?style=flat-square" alt="HTTPX"/>
 
 **Repo:** [unified-web-recon-platform](https://github.com/ragul-cybersec-engr/unified-web-recon-platform)
 
@@ -189,22 +195,16 @@ A Dockerized, GUI-based web application reconnaissance platform that automates t
 </tr>
 <tr>
 <td valign="top">
-
-- eLearnSecurity Junior Penetration Tester (eJPT)
-- Certified API Red Team Analyst (API-RTA)
-- Certified Network Security Practitioner (CNSP)
-
+<img src="https://img.shields.io/badge/eJPT-FF5C5C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/API--RTA-FF5C5C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/CNSP-FF5C5C?style=flat-square" alt=""/>
 </td>
 <td valign="top">
-
-- ISO/IEC 27001 Lead Auditor
-
+<img src="https://img.shields.io/badge/ISO%2FIEC_27001_Lead_Auditor-39D3FF?style=flat-square" alt=""/>
 </td>
 <td valign="top">
-
-- IBM Ethical Hacking with Kali Linux
-- Google Cybersecurity Professional Certificate
-
+<img src="https://img.shields.io/badge/IBM_Ethical_Hacking-00FF9C?style=flat-square" alt=""/><br>
+<img src="https://img.shields.io/badge/Google_Cybersecurity_Cert-00FF9C?style=flat-square" alt=""/>
 </td>
 </tr>
 </table>
@@ -213,11 +213,17 @@ A Dockerized, GUI-based web application reconnaissance platform that automates t
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=CURRENT%20OBJECTIVE&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Current Objective"/>
 
-I'm a cybersecurity graduate with a hands-on, ethical-hacking background — I build security tools and platforms rather than just study the concepts, work through CTF-style challenges, and experiment with offensive-security tooling to understand how real systems fail. My focus is web and API security testing, backed by growing automation and secure-engineering skills. I'm open to entry-level opportunities in penetration testing, vulnerability assessment, and application security where I can keep learning on the job.
+> [!TIP]
+> I'm a cybersecurity graduate with a hands-on, ethical-hacking background — I build security tools and platforms rather than just study the concepts, work through CTF-style challenges, and experiment with offensive-security tooling to understand how real systems fail. My focus is web and API security testing, backed by growing automation and secure-engineering skills. I'm open to entry-level opportunities in penetration testing, vulnerability assessment, and application security where I can keep learning on the job.
 
 <div align="center">
 
-`RECON` → `ENUMERATE` → `TEST` → `EXPLOIT` → `REPORT` → `SECURE`
+<img src="https://img.shields.io/badge/RECON-39D3FF?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/ENUMERATE-39D3FF?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/TEST-39D3FF?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/EXPLOIT-FF5C5C?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/REPORT-00FF9C?style=flat-square" alt=""/> ➜
+<img src="https://img.shields.io/badge/SECURE-00FF9C?style=flat-square" alt=""/>
 
 </div>
 
