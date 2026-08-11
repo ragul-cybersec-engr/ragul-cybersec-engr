@@ -15,20 +15,20 @@
 
 <br>
 
-## 🗂️ OPERATOR PROFILE
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=OPERATOR%20PROFILE&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Operator Profile"/>
 
-<table>
-<tr><td width="160"><b>🧑‍💻 OPERATOR</b></td><td>Ragul S</td></tr>
-<tr><td><b>🎓 ROLE</b></td><td>Cybersecurity Graduate</td></tr>
-<tr><td><b>🎯 FOCUS</b></td><td>Web & API Security</td></tr>
-<tr><td><b>⚔️ DOMAIN</b></td><td>Offensive Security</td></tr>
-<tr><td><b>🟢 STATUS</b></td><td>Open to Opportunities</td></tr>
-<tr><td><b>📍 LOCATION</b></td><td>Tamil Nadu, India</td></tr>
+<table width="100%">
+<tr><td width="220">🧑‍💻&nbsp;<b>OPERATOR</b></td><td>Ragul S</td></tr>
+<tr><td>🎓&nbsp;<b>ROLE</b></td><td>Cybersecurity Graduate</td></tr>
+<tr><td>🎯&nbsp;<b>FOCUS</b></td><td>Web & API Security</td></tr>
+<tr><td>⚔️&nbsp;<b>DOMAIN</b></td><td>Offensive Security</td></tr>
+<tr><td>🟢&nbsp;<b>STATUS</b></td><td>Open to Opportunities</td></tr>
+<tr><td>📍&nbsp;<b>LOCATION</b></td><td>Tamil Nadu, India</td></tr>
 </table>
 
----
+<br>
 
-## 💻 TERMINAL SESSION
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=TERMINAL%20SESSION&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Terminal Session"/>
 
 ```bash
 ragul@security-ops:~$ whoami
@@ -51,11 +51,11 @@ ragul@security-ops:~$ cat mindset.txt
 > Offensive thinking. Defensive impact.
 > Always learning. Always improving.
 
----
+<br>
 
-## 🎯 SECURITY FOCUS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=SECURITY%20FOCUS&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Security Focus"/>
 
-<table>
+<table width="100%">
 <tr>
 <th align="left" width="50%">Primary Focus</th>
 <th align="left" width="50%">Security Testing Areas</th>
@@ -84,9 +84,9 @@ ragul@security-ops:~$ cat mindset.txt
 </tr>
 </table>
 
----
+<br>
 
-## 🧭 SECURITY DOMAINS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=SECURITY%20DOMAINS&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Security Domains"/>
 
 <div align="center">
 
@@ -94,13 +94,13 @@ ragul@security-ops:~$ cat mindset.txt
 
 </div>
 
----
+<br>
 
-## 🧰 CURRENT ARSENAL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=CURRENT%20ARSENAL&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Current Arsenal"/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="210"><b>🌐 Web & API Security</b></td>
+<td width="220"><b>🌐 Web & API Security</b></td>
 <td>
 <img src="https://img.shields.io/badge/Burp_Suite-161B22?style=for-the-badge&logoColor=00FF9C" alt="Burp Suite"/>
 <img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=39D3FF" alt="Postman"/>
@@ -108,20 +108,20 @@ ragul@security-ops:~$ cat mindset.txt
 </td>
 </tr>
 <tr>
-<td width="210"><b>📡 Network Security</b></td>
+<td width="220"><b>📡 Network Security</b></td>
 <td>
 <img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&logoColor=39D3FF" alt="Nmap"/>
 <img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=39D3FF" alt="Wireshark"/>
 </td>
 </tr>
 <tr>
-<td width="210"><b>💀 Offensive Security</b></td>
+<td width="220"><b>💀 Offensive Security</b></td>
 <td>
 <img src="https://img.shields.io/badge/Metasploit-161B22?style=for-the-badge&logoColor=00FF9C" alt="Metasploit"/>
 </td>
 </tr>
 <tr>
-<td width="210"><b>⚙️ Dev & Automation</b></td>
+<td width="220"><b>⚙️ Dev & Automation</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=39D3FF" alt="Python"/>
 <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=00FF9C" alt="Git"/>
@@ -131,9 +131,9 @@ ragul@security-ops:~$ cat mindset.txt
 </tr>
 </table>
 
----
+<br>
 
-## 🗃️ CLASSIFIED PROJECTS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=CLASSIFIED%20PROJECTS&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Classified Projects"/>
 
 ### 🔐 PROJECT 01 — CYKRYPT CTF PLATFORM &nbsp; `🟢 ACTIVE`
 
@@ -177,11 +177,11 @@ A Dockerized, GUI-based web application reconnaissance platform that automates t
 
 **Repo:** [unified-web-recon-platform](https://github.com/ragul-cybersec-engr/unified-web-recon-platform)
 
----
+<br>
 
-## 🎓 CERTIFICATION VAULT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=CERTIFICATION%20VAULT&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Certification Vault"/>
 
-<table>
+<table width="100%">
 <tr>
 <th align="left" width="34%">Offensive Security</th>
 <th align="left" width="33%">Governance / Audit</th>
@@ -209,9 +209,9 @@ A Dockerized, GUI-based web application reconnaissance platform that automates t
 </tr>
 </table>
 
----
+<br>
 
-## 📌 CURRENT OBJECTIVE
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=CURRENT%20OBJECTIVE&fontSize=26&fontColor=00FF9C&fontAlignY=62&fontFamily=Fira%20Code" width="100%" alt="Current Objective"/>
 
 I'm a cybersecurity graduate with a hands-on, ethical-hacking background — I build security tools and platforms rather than just study the concepts, work through CTF-style challenges, and experiment with offensive-security tooling to understand how real systems fail. My focus is web and API security testing, backed by growing automation and secure-engineering skills. I'm open to entry-level opportunities in penetration testing, vulnerability assessment, and application security where I can keep learning on the job.
 
@@ -221,7 +221,7 @@ I'm a cybersecurity graduate with a hands-on, ethical-hacking background — I b
 
 </div>
 
----
+<br>
 
 <div align="center">
 
