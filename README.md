@@ -108,7 +108,7 @@ ragul@security-ops:~$ cat mindset.txt
 
 ## 🗃️ Classified Projects
 
-### 🔐 Project 01 — CYKRYPT CTF Platform
+### 🔐 Project 01 — CTF Platform
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-1B4332?style=flat-square&labelColor=161B22" alt="Active"/>
 
 A full-stack Capture The Flag platform to create and solve real-world security challenges — built to demonstrate **Security + Development + CTF Engineering** together.
