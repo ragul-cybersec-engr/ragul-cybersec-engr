@@ -13,11 +13,11 @@
 
 <br>
 
-## 🗂️ Operator Profile
+## 🗂️ User Profile
 
 | | |
 |---|---|
-| 🧑‍💻 **Operator** | Ragul S |
+| 🧑‍💻 **User** | Ragul S |
 | 🎓 **Role** | Cybersecurity Graduate |
 | 🎯 **Focus** | Web & API Security |
 | ⚔️ **Domain** | Offensive Security |
@@ -126,6 +126,8 @@ A full-stack Capture The Flag platform to create and solve real-world security c
 <img src="https://img.shields.io/badge/Express-1B4332?style=flat-square&logo=express&logoColor=0D1117" alt="Express"/>
 <img src="https://img.shields.io/badge/SQLite-1B4332?style=flat-square&logo=sqlite&logoColor=0D1117" alt="SQLite"/>
 <img src="https://img.shields.io/badge/Docker-1B4332?style=flat-square&logo=docker&logoColor=0D1117" alt="Docker"/>
+
+**Repo:** [CTF-PLATFORM](https://github.com/ragul-cybersec-engr/CTF-PLATFORM.git)
 
 <br>
 
